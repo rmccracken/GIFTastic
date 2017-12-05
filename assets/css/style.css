@@ -1,0 +1,11 @@
+#animals {
+   columns: 5;
+}
+button{
+	margin-right: 5px;
+
+}
+img{
+	height: 100%
+	width: 100%;
+}
